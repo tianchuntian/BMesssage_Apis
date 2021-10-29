@@ -1,0 +1,7 @@
+name,parentId,errcode
+null,1,0
+"",1,40058
+,1,0
+a,1,0
+abcdefghijabcdefghijabcdefghij12,1,0
+abcdefghijabcdefghijabcdefghij123,1,60001
